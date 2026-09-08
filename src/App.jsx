@@ -5,6 +5,7 @@ function App() {
 
   const expenses =[
   {
+    
     date: new Date(2024,10,12),
     title: 'New book',
     price: 30.99
